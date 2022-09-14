@@ -1,0 +1,16 @@
+PODS:
+  - TMM (1.0)
+
+DEPENDENCIES:
+  - TMM (from `../../`)
+
+EXTERNAL SOURCES:
+  TMM:
+    :path: "../../"
+
+SPEC CHECKSUMS:
+  TMM: 9a23fb2c5f9f36dc6c4dd9caa76fb1a5185b48e2
+
+PODFILE CHECKSUM: 5bf052e76ab8d06471a9913de5d820c010ff14ab
+
+COCOAPODS: 1.11.3

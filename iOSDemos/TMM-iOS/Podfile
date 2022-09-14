@@ -1,0 +1,5 @@
+target 'TMM-iOS' do
+  use_frameworks!
+  platform :ios, '15.1'
+  pod 'TMM', :path => '../../'
+end
